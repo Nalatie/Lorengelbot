@@ -3,7 +3,7 @@ from telebot import types
 import sqlite3
 
 
-bot = telebot.TeleBot('6605211662:AAFG69LG5eruHg0nOrx6YheE_XdDsr3U8hw')
+bot = telebot.TeleBot('token')
 PM_lips = ''
 PM_brows = ''
 PM_lashes = ''
